@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+tqdm
+python-dotenv
+pypdf
