@@ -1,0 +1,21 @@
+# Core Framework
+chainlit
+python-dotenv
+tqdm
+ 
+# LangChain Core and Community
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+ 
+# Classic Components (For ParentDocumentRetriever and Legacy Chains)
+langchain-classic
+ 
+# Model Integrations
+langchain-ollama
+langchain-chroma
+pypdf
+ 
+# Pydantic (Ensuring compatibility between Chainlit and LangChain)
+pydantic>=2.9.0,<2.11.0
